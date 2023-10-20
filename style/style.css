@@ -276,8 +276,7 @@ body {
   border: 1px solid #02ca02;
 }
 
-.kotak h1,
-p {
+.kotak p {
   color: var(--white);
 }
 /* About End */
