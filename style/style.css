@@ -224,7 +224,7 @@ body {
 .school {
   margin-top: 10px;
   color: var(--white);
-  animation: typewriter 4s steps(50) 1s 1 normal both, blinkTextCursor 500ms steps(50) infinite normal;
+  animation: typewriter 4s steps(50) 1s 1 normal both, blinkTextCursor 300ms steps(50) infinite normal;
 }
 /* Hero End*/
 
